@@ -7,8 +7,4 @@ https://colab.research.google.com/github/TristHas/Teaching/blob/main/Optimizatio
 
 Then please let us know your thoughts on the course:
 
-English Version:
-https://docs.google.com/forms/d/1T-OMGdBF8X75RdPHjfBm0ZKKgpDOXGQ8zpNkXQeWlp8/
-
-Japanese Version:
-https://docs.google.com/forms/d/1jbsfOrcEZMGyVvmlCpvPzqGMEiHvl0nkrBGLCODypH8
+https://docs.google.com/forms/d/18ImSzWfU7nKfkG_Fc6HaxeTdLhP3n9PTF7OWLlo9wfg
